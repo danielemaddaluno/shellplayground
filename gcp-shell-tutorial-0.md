@@ -16,7 +16,7 @@ pwd
 ```
 e premere invio
 
-D'ora in poi quando scriveremo: `Eseguire il seguente comando`, intenderemo di trascriverlo nella shell e premere invio (come abbiamo appena fatto per il comando `pwd`).
+D'ora in poi quando scriveremo: `Eseguire il seguente comando`, intenderemo di copiarlo nella shell e premere invio (come abbiamo appena fatto per il comando `pwd`).
 
 ## Creare una nuova cartella
 
